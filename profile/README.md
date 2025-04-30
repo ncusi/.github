@@ -12,7 +12,7 @@ Our work focuses on:
 
 We publish in top-tier venues like:
 - **IEEE/ACM MSR**
-- - **IEEE Transactions on Software Engineering**
+- **IEEE Transactions on Software Engineering**
 - **Journal of Intelligent Information Systems**
 
 A few of our recent contributions:
@@ -22,7 +22,7 @@ A few of our recent contributions:
 
 ## 🛠 Featured Tool
 
-### 🔍 [PatchScopeR](https://github.com/ncusi/PatchScope)
+### 🔍 [PatchScope](https://github.com/ncusi/PatchScope)
 A tool for automated patch analysis and fine-grained classification of bug fixes. Used in our MSR 2025 studies to analyze the XZ Utils supply chain attack and other security-related commits.
 
 ---
