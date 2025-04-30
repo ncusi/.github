@@ -31,4 +31,4 @@ We’re a collaborative team and often work across universities and disciplines.
 
 ## 📫 Contact
 
-- **Lead**: [Piotr Przymus](https://scholar.google.com/citations?user=WIQpqI0AAAAJ&hl=en)
+[Piotr Przymus](https://scholar.google.com/citations?user=WIQpqI0AAAAJ&hl=en)
