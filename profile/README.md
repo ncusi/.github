@@ -16,6 +16,8 @@ We publish in top-tier venues like:
 - **Journal of Intelligent Information Systems**
 
 A few of our recent contributions:
+- *[Out of Sight, Still at Risk: The Lifecycle of Transitive Vulnerabilities in Maven](https://arxiv.org/abs/2504.04803)*
+- *[HaPy-Bug - Human Annotated Python Bug Resolution Dataset](https://arxiv.org/abs/2504.04810)*
 - *[How I Learned to Stop Worrying and Love ChatGPT](https://doi.org/10.1145/3643991.3645073)*
 - *[The Secret Life of CVEs](https://doi.org/10.1109/MSR59073.2023.00056)*
 - *[Tracking Buggy Files: New Efficient Adaptive Bug Localization Algorithm](https://doi.org/10.1109/TSE.2021.3064447)*
