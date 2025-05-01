@@ -22,7 +22,7 @@ A few of our recent contributions:
 - *[The Secret Life of CVEs](https://doi.org/10.1109/MSR59073.2023.00056)*
 - *[Tracking Buggy Files: New Efficient Adaptive Bug Localization Algorithm](https://doi.org/10.1109/TSE.2021.3064447)*
 - *[Profile based recommendation of code reviewers](https://link.springer.com/article/10.1007/s10844-017-0484-1)*
-- *Fast JSON Parsing with GPU Metaprogramming*
+- *[Fast JSON Parsing with GPU Metaprogramming](https://ieeexplore.ieee.org/document/10032381)*
 
 ## 🛠 Featured Tool
 
