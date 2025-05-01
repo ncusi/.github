@@ -16,8 +16,10 @@ We publish in top-tier venues like:
 - **Journal of Intelligent Information Systems**
 
 A few of our recent contributions:
-- *Tracking Buggy Files: New Efficient Adaptive Bug File Prediction*
-- *The Secret Life of CVEs: An Empirical Study of Vulnerability Evolution*
+- *[How I Learned to Stop Worrying and Love ChatGPT](https://doi.org/10.1145/3643991.3645073)*
+- *[The Secret Life of CVEs](https://doi.org/10.1109/MSR59073.2023.00056)*
+- *[Tracking Buggy Files: New Efficient Adaptive Bug Localization Algorithm](https://doi.org/10.1109/TSE.2021.3064447)*
+- *[Profile based recommendation of code reviewers](https://link.springer.com/article/10.1007/s10844-017-0484-1)*
 - *Fast JSON Parsing with GPU Metaprogramming*
 
 ## 🛠 Featured Tool
