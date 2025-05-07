@@ -17,9 +17,13 @@ We publish in top-tier venues like:
 
 A few of our recent contributions:
 - *[Out of Sight, Still at Risk: The Lifecycle of Transitive Vulnerabilities in Maven](https://arxiv.org/abs/2504.04803)*
+   - [Replication package](https://doi.org/10.6084/m9.figshare.27956667)
 - *[HaPy-Bug - Human Annotated Python Bug Resolution Dataset](https://arxiv.org/abs/2504.04810)*
+  - [Replication package](https://doi.org/10.6084/m9.figshare.24448663)
 - *[How I Learned to Stop Worrying and Love ChatGPT](https://doi.org/10.1145/3643991.3645073)*
+  - [Replication package](https://doi.org/10.6084/m9.figshare.24771117)
 - *[The Secret Life of CVEs](https://doi.org/10.1109/MSR59073.2023.00056)*
+  - [Replication package](https://doi.org/10.6084/m9.figshare.22007003)
 - *[Tracking Buggy Files: New Efficient Adaptive Bug Localization Algorithm](https://doi.org/10.1109/TSE.2021.3064447)*
 - *[Profile based recommendation of code reviewers](https://link.springer.com/article/10.1007/s10844-017-0484-1)*
 - *[Fast JSON Parsing with GPU Metaprogramming](https://ieeexplore.ieee.org/document/10032381)*
